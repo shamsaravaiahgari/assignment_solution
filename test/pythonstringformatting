@@ -1,0 +1,10 @@
+input:
+2
+
+output:
+ 1  1  1  1
+ 2  2  2 10
+
+expected output:
+ 1  1  1  1
+ 2  2  2 10
